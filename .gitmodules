@@ -1,3 +1,6 @@
 [submodule "filesystem"]
 	path = filesystem
 	url = git@github.com:szatanjl/filesystem.git
+[submodule "config"]
+	path = config
+	url = git@github.com:szatanjl/config.git
