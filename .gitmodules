@@ -10,3 +10,6 @@
 [submodule "packages"]
 	path = packages
 	url = git@github.com:szatanjl/packages.git
+[submodule "sysinstall"]
+	path = sysinstall
+	url = git@github.com:szatanjl/sysinstall.git
