@@ -1,0 +1,38 @@
+#!/bin/sh -e -u does not work wtf!?
+
+hostname (/etc/hostname)
+poweroff without sudo (polkit?, power group)
+fn keys (brightness, volume...)
+laptop lid
+hibernate/sleep
+drivers
+
+firewall (iptables)
+notification-daemon (dunst?)
+clipboard manager (clipmenu?)
+mtp (android)
+steam
+xdg-utils xdg-user-dirs (wyglada ze to syff, ale sxiv to ciagnie,
+ciekawe czy/jak by dzialal soft bez tego:
+chromium, firefox, thunar, dbl-commander, trasmission-gtk)
+
+display manager
+generate pacman mirrorlist from https://www.archlinux.org/mirrors/status/json/?
+
+Makefiles:
+  - make dist: cp -f vs cp
+  - rmdir -p in uninstall?
+  - `--` in shell commands?
+  - copy with hierarchy (config, packages)
+  - how to handle special chars in filenames?  backslash?
+    - newline
+    - spaces
+    - control chars
+    - unicode
+    - shell special chars
+      - globbing ?, *
+      - grammar \, `, #, $, &, (, ), ;, ...
+
+READMEs
+
+Manuals
