@@ -4,3 +4,6 @@
 [submodule "config"]
 	path = config
 	url = git@github.com:szatanjl/config.git
+[submodule "pacman-extra"]
+	path = pacman-extra
+	url = git@github.com:szatanjl/pacman-extra.git
